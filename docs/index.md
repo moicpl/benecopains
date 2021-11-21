@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+![charter-oak-tree](https://user-images.githubusercontent.com/55847862/142745968-ce0f67ac-d922-4f1c-a535-05a647928084.jpg)
 
 - Bulleted
 - List
