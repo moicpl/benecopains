@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/moicpl/benecopains/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+![charter-oak-tree](https://user-images.githubusercontent.com/55847862/142745990-ae66bb73-fa4c-489c-bc83-da9dc238307a.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -14,7 +15,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-![charter-oak-tree](https://user-images.githubusercontent.com/55847862/142745968-ce0f67ac-d922-4f1c-a535-05a647928084.jpg)
 
 - Bulleted
 - List
